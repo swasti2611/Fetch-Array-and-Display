@@ -1,0 +1,15 @@
+table.table-sm {
+  width: 70%;
+  margin: 0 auto; /* Center the table */
+}
+th,
+td {
+  text-align: center;
+  vertical-align: middle;
+  padding: 5px;
+}
+.btn-dark {
+  margin-bottom: -60px !important;
+  height: 33px;
+  width: 120px;
+}
